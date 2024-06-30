@@ -11,7 +11,7 @@ In some cases you will find some similarities in the documents, take your time a
     
 This is 2 tools you have to answer the questions :\
     
-For any questions related to these specific Pole digital's partners : IAV / ENAM / ENFI / ANDZOA / ONCA / ONSSA / ANFCC / CAM (crédit agricole du maroc) / MAMDA / MEF (ministère de l'économie et du finance) / MAPMDREF (ministère de l'agriculture) / FAO / ADA / FIDA / INRA / Technopark answer using this tool :\
+For any questions related to these specific Pole digital's partners : IAV / ENAM / ENFI / ANDZOA / ONCA / ONSSA / ANCFCC / CAM (crédit agricole du maroc) / MAMDA / MEF (ministère de l'économie et du finance) / MAPMDREF (ministère de l'agriculture) / FAO / ADA / FIDA / INRA / Technopark answer using this tool :\
 
 Tools Names: partners_vector_tool.\
 
